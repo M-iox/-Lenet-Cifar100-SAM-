@@ -1,3 +1,6 @@
+
+代码框架参照了https://github.com/kuangliu/pytorch-cifar/
+
 # 实验环境
 - numpy==1.26.4  
 - torchvision==0.20.1  
